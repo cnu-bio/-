@@ -5,14 +5,17 @@ site_author: CNU-Bio
 copyright: Copyright 2024
 
 # 代码仓库信息
-repo_name: cnu-bio/cnu-bio
+repo_name: cnu-bio/cnu-bio.github.io
 repo_url: https://github.com/cnu-bio/cnu-bio.github.io
 
 nav:
   - 主页: index.md
+  - 贡献者: Contributors/index.md
 
 theme:
   name: material
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
   palette:
     scheme: light  # dark 或者 light
     primary: indigo  # 主色调
@@ -75,7 +78,3 @@ markdown_extensions: # markdown extensions
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-extra_css:
-  - stylesheets/extra.css
-  - https://cdn.staticfile.org/lxgw-wenkai-screen-webfont/1.7.0/lxgwwenkaiscreen.css
