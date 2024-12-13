@@ -1,17 +1,45 @@
-# Welcome to MkDocs
+# 首都师范大学生命科学学院课程分享计划
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+然而，在我的学习过程中，我发现我们缺少一个能够方便资源交换的平台。资源交换不仅可以提高我们的学习效率，也能帮助每个同学在不同的领域不断进步。事实上，一些知名高校，如北京大学、西安交通大学等，都已经建立了自己的资源共享平台，为学弟学妹们提供了很多宝贵的帮助。
 
-## Commands
+正如《浙江大学课程攻略共享计划》中所说：
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> “我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。”
 
-## Project layout
+基于这个理念，我想开启一个 **《课程共享计划》**，为我们首师大的生科院同学搭建一个资源共享平台。通过这个平台，我们可以将课程相关的宝贵资源留下来，不仅让我们自己更好地整理和回顾，也能帮助生科院的学弟学妹们提高学习效率，增强教学质量。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**如何贡献？**
+
+我创建了一个公共站点：https://cnu-bio.github.io ，所有的资料在整理之后都将上传到这个站点，所有人都能对其进行复制、分发
+
+**您能做什么？**
+
+我诚挚地邀请您参与到这个计划中，您可以为这个项目贡献以下内容：
+
+1. 选课攻略
+2. 电子版教材
+3. 平时作业答案
+4. 历年试题
+5. 笔记
+
+**贡献方式**：
+
+- 每位贡献者可以选择是否公开自己的贡献。如果您选择公开，您的贡献将会保留署名。
+- 请将资源发送至邮箱： **cnu-bio@proton.com**，不论是图片、PDF、Word文档等类型的文件，我们都会在整理之后上传到平台。
+
+如果您熟悉 Git 操作，也可以通过关注我们的项目地址：[https://github.com/cnu-bio/cnu-bio.github.io](https://github.com/cnu-bio/cnu-bio.github.io)，并进行 Fork 和 PR（拉取请求）参与平台的建设。
+
+**关于版权**
+
+全部内容版权归属各自的作者。当上传者未指明协议时，遵循以下协议：
+(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议
+
+若选择匿名则同未指明
+
+贡献者应当保证上传的资源未有版权纠纷
+
+**联系方式**：
+
+- 邮箱：cnu-bio@proton.com
+- GitHub 项目：[https://github.com/cnu-bio/cnu-bio.github.io](https://github.com/cnu-bio/cnu-bio.github.io)
+- 项目网站：https://cnu-bio.github.io
