@@ -25,7 +25,7 @@
 **贡献方式**：
 
 - 每位贡献者可以选择是否公开自己的贡献。如果您选择公开，您的贡献将会保留署名。
-- 请将资源发送至邮箱： **cnu-bio@proton.com**，不论是图片、PDF、Word文档等类型的文件，我们都会在整理之后上传到平台。
+- 请将资源发送至邮箱： **cnu-bio@proton.me**，不论是图片、PDF、Word文档等类型的文件，我们都会在整理之后上传到平台。
 
 如果您熟悉 Git 操作，也可以通过关注我们的项目地址：[https://github.com/cnu-bio/cnu-bio.github.io](https://github.com/cnu-bio/cnu-bio.github.io)，并进行 Fork 和 PR（拉取请求）参与平台的建设。
 
@@ -40,6 +40,6 @@
 
 **联系方式**：
 
-- 邮箱：cnu-bio@proton.com
+- 邮箱：cnu-bio@proton.me
 - GitHub 项目：[https://github.com/cnu-bio/cnu-bio.github.io](https://github.com/cnu-bio/cnu-bio.github.io)
 - 项目网站：https://cnu-bio.github.io

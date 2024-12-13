@@ -25,6 +25,6 @@
 
 ## **联系方式**：
 
-- 邮箱：cnu-bio@proton.com
+- 邮箱：cnu-bio@proton.me
 - GitHub 项目：[https://github.com/cnu-bio/cnu-bio.github.io](https://github.com/cnu-bio/cnu-bio.github.io)
 - 项目网站：https://cnu-bio.github.io
